@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"20a0d23394227b2b","type":"file","file":"001. Documentos/02. Assets/02. Imagem Tela Cartão Antigo.png","x":60,"y":-200,"width":400,"height":329},
+		{"id":"c1f466b2ff5a6d88","type":"file","file":"001. Documentos/02. Assets/01. Imagem Tela Cartão Novo.png","x":-500,"y":-160,"width":400,"height":225}
+	],
+	"edges":[
+		{"id":"101fd6a60032e845","fromNode":"c1f466b2ff5a6d88","fromSide":"right","toNode":"20a0d23394227b2b","toSide":"left"}
+	]
+}
